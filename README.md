@@ -1,4 +1,4 @@
-<h1 align="center">Hello world👋</h1>
+<h1 align="center">Hello, world👋</h1>
 <h3 align="center">Here you can find source code of some courses I have taken in order to improve my skills as software developer. There are also a bunch of projects that I have been inspired to implement like: <a href="https://github.com/ivanbo97/plants-irrigation-app">plants-irrigation-app</a> , <a href="https://github.com/ivanbo97/remote-controlled-robot">remote-controlled-robot</a>, <a href="https://github.com/ivanbo97/VibeScanner">VibeScanner</a>, <a href="https://github.com/ivanbo97/GarbageSpotter">GarbageSpotter</a>.</h3>
 
 - 📫 How to reach me **ivanboyuklievv@gmail.com**
