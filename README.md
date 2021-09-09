@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Here you can find source code of some courses I have taken in order to improve my skills as software developer. There are also a bunch of projects that I have been inspired to implement like: <a href="https://www.w3schools.com">plants-irrigation-app</a> , remote-controlled-robot, VibeScanner, GarbageSpotter.</h3>
+<h3 align="center">Here you can find source code of some courses I have taken in order to improve my skills as software developer. There are also a bunch of projects that I have been inspired to implement like: <a href="https://github.com/ivanbo97/plants-irrigation-app">plants-irrigation-app</a> , remote-controlled-robot, VibeScanner, GarbageSpotter.</h3>
 
 - 📫 How to reach me **ivanboyuklievv@gmail.com**
 
