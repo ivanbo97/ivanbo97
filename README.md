@@ -1,7 +1,14 @@
 <h1 align="center">Hello, world!👋</h1>
-<h3 align="center">Here you can find source code of some courses I have taken in order to improve my skills as a software developer. There are also a bunch of projects that I have been inspired to implement like: <a href="https://github.com/ivanbo97/plants-irrigation-app">plants-irrigation-app</a> , <a href="https://github.com/ivanbo97/remote-controlled-robot">remote-controlled-robot</a>, <a href="https://github.com/ivanbo97/VibeScanner">VibeScanner</a>, <a href="https://github.com/ivanbo97/GarbageSpotter">GarbageSpotter</a>.</h3>
+<h3 >Here you can find source code of some courses I have taken in order to improve my skills as a software developer. There are also a bunch of projects that I have been inspired to implement like:<br><br><ul>
+  <li><a href="https://github.com/ivanbo97/plants-irrigation-app">Plants Irrigation App</a></li>
+  <li><a href="https://github.com/ivanbo97/VibeScanner">VibeScanner</a></li>
+  <li><a href="https://github.com/ivanbo97/remote-controlled-robot">Remotely Controlled Robot</a></li>
+  <li><a href="https://github.com/ivanbo97/GarbageSpotter">GarbageSpotter</a></li>
+</ul>  
+</h3>
+<br><br>
 
-- 📫 How to reach me **ivanboyuklievv@gmail.com**
+📫 How to reach me **ivanboyuklievv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
