@@ -1,5 +1,6 @@
 <h1 align="center">Hello, world!👋</h1>
 <h3 >Here you can find source code of some courses I have taken in order to improve my skills as a software developer. There are also a bunch of projects that I have been inspired to implement like:<br><br><ul>
+  <li><a href="https://github.com/ivanbo97/hangman-game">Hangman Game</a></li>
   <li><a href="https://github.com/ivanbo97/plants-irrigation-app">Plants Irrigation App</a></li>
   <li><a href="https://github.com/ivanbo97/VibeScanner">VibeScanner</a></li>
   <li><a href="https://github.com/ivanbo97/remote-controlled-robot">Remotely Controlled Robot</a></li>
